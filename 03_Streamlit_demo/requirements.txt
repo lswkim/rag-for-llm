@@ -1,0 +1,19 @@
+# python 3.11
+streamlit
+streamlit_option_menu
+
+# aws
+boto3>=1.28.57
+awscli>=1.29.57
+botocore>=1.31.57
+
+# langchain & llm
+transformers==4.36.0
+torch==2.1.1
+langchain==0.0.352
+langchain_community==0.0.6
+sentence-transformers
+faiss-cpu
+
+ipykernel
+matplotlib
